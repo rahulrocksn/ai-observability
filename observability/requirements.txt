@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+langchain
+langchain-community
+langchain-google-genai  # Changed from langchain-openai
+python-dotenv
+prometheus-fastapi-instrumentator
+elasticsearch>=8.0.0,<9.0.0
